@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "VIhlasA6b95GzQm8UMCcRPHv51jUH5GcRrz8JqbuKQw=",
+  "Source": "Projeto PET",
+  "BasePath": "_content/Projeto PET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto PET\\wwwroot",
+      "Source": "Projeto PET",
+      "ContentRoot": "C:\\Users\\Carlos Eduardo\\Desktop\\Projeto PET\\wwwroot\\",
+      "BasePath": "_content/Projeto PET",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Carlos Eduardo\\Desktop\\Projeto PET\\wwwroot\\index.html",
+      "SourceId": "Projeto PET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Carlos Eduardo\\Desktop\\Projeto PET\\wwwroot\\",
+      "BasePath": "_content/Projeto PET",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
